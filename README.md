@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Side Projects: PSDE
+## Side Projects: P&S, D&E
 ## Work History
 ## Education
 <!--
