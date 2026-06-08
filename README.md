@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Side Projects: P&S, D&E
 
 <!--
