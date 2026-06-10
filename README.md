@@ -1,4 +1,4 @@
-## Side Projects: P&S, D&E
+## Side projects: P&S, D&E
 
 <!--
 **0b10001/0b10001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
