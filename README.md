@@ -1,7 +1,4 @@
 ## Side projects: P&S, D&E
-
-
-
 <!--
 - Space
 - >=
