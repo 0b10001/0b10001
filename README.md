@@ -1,6 +1,7 @@
 - qwerty
 - asdf
 - [Link to Google](https://google.com)
+- <a href="https://example.com" target="_blank">Link to X</a>
  <!--
 - Space
 - >=
